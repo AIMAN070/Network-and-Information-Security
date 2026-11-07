@@ -301,7 +301,3 @@ The project also evaluates the computational performance of the hybrid cipher ag
 The results demonstrate that combining classical encryption techniques increases computational operations but does not guarantee modern cryptographic security.
 
 ---
-
-**Course:** Network and Information Security (CT-486)  
-**Project:** Design and Break a Custom Cipher Based on Classical Techniques
-
