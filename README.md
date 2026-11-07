@@ -299,5 +299,3 @@ It successfully implements encryption, decryption, and a Known-Plaintext Attack 
 The project also evaluates the computational performance of the hybrid cipher against a Shift Cipher and analyzes the time complexity of the implemented algorithms.
 
 The results demonstrate that combining classical encryption techniques increases computational operations but does not guarantee modern cryptographic security.
-
----
